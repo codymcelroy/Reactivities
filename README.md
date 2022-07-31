@@ -1,1 +1,1 @@
-Udemy Practice for a .Net \ React app
+Udemy Practice: Application using .Net Core and React
